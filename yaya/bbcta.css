@@ -2,8 +2,17 @@ body{
     color:rgb(238, 204, 204);
     background-color:rgb(163, 116, 177);
     text-align: center;
+    font-size: large;
+    font-stretch: expanded;
+    font-weight: 600;
+    text-decoration: double;
+    letter-spacing: 0.5em;
 }
-
 img {
-    width:30%;
+    width: 30%;
+}
+footer{ 
+    text-align: inherit;
+    font-family: Georgia, 'Times New Roman', Times, serif
+    ;
 }
