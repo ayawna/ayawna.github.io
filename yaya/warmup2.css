@@ -1,0 +1,29 @@
+header{ font-size: x-large;}
+p {
+    display: inline-block;
+}
+#a {
+    width: 320px;
+    padding: 10px;
+    border: 5px solid pink;
+    border-radius: 3%;
+    margin: 5%;
+    background-color: lavenderblush;
+}
+#b{
+    width: 320px;
+    padding: 10px;
+    border: 5px solid cornflowerblue;
+    border-radius: 3%;
+    background-color: rgb(173, 112, 132);
+    margin: 5%;
+}
+#c {
+    width: 320px;
+    padding: 10px;
+    border: 5px solid rgb(102, 227, 204);
+    border-radius: 3%;
+    margin: 5%;
+    background-color: rgb(91, 111, 151);
+}
+footer{ font-size: larger;}
