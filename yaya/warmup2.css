@@ -25,5 +25,6 @@ p {
     border-radius: 3%;
     margin: 5%;
     background-color: rgb(91, 111, 151);
+    text-decoration: dotted;
 }
 footer{ font-size: larger;}

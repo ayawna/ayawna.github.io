@@ -1,4 +1,6 @@
 body{
+    margin: 0;  /* remove default margins */
+
     color:rgb(238, 204, 204);
     background-color:rgb(163, 116, 177);
     text-align: center;
@@ -6,13 +8,25 @@ body{
     font-stretch: expanded;
     font-weight: 600;
     text-decoration: double;
-    letter-spacing: 0.5em;
+    letter-spacing: 0.5  em;
 }
-img {
-    width: 30%;
-}
+
 footer{ 
     text-align: inherit;
     font-family: Georgia, 'Times New Roman', Times, serif
     ;
+}
+
+#photos {
+    width: 90vw;
+    height: auto;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-auto-rows: calc(90vw / 5 * 19.5 / 9);
+}
+
+#photos img {
+    height: 100%;
+    width: 100%;
 }
