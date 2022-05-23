@@ -1,0 +1,41 @@
+header
+{
+     font-size: xx-large;
+    text-align: center;
+}
+#a
+{
+    width: 315px;
+}
+#b
+{
+    width: 315px;
+}
+#c
+{
+    width: 315px;
+}
+p{
+    text-align: center;
+    font-size: x-large;
+}
+#photos {
+    text-align: center;
+
+}
+#d{
+width: 315px;
+}
+#g{
+    width: 315px;
+}
+#f{
+    width: 315px;
+}
+#photoz{
+    text-align: center;
+}
+footer {
+    font-size: x-large;
+    text-align: center;
+}
